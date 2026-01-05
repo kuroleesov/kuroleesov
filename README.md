@@ -1,5 +1,5 @@
-**Hi I'm Kuroleesov** / 
-Currently working on **nothing** / 
+**hi I'm kuroleesov** / 
+currently working on **nothing** / 
 I'm lazy / 
-I work with: Python / 
+i work with Python only / 
 ~~please revive me jett~~
