@@ -1,6 +1,5 @@
 **Hi I'm Kuroleesov** / 
 Currently working on **nothing** / 
 I'm lazy / 
-I work with: Python, C++ / 
-learning: GO / 
+I work with: Python / 
 ~~please revive me jett~~
