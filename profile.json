@@ -20,18 +20,19 @@
   "hidden": [
     "projects",
     "wave",
-    "stack"
+    "stack",
+    "buttons"
   ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "I build something.",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "cookie",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Yekaterinburg"
       },
       {
         "icon": "code",
