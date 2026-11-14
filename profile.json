@@ -9,15 +9,19 @@
   "order": [
     "hero",
     "socials",
+    "buttons",
     "about",
     "stack",
-    "projects",
     "stats",
     "streak",
-    "wave",
-    "buttons"
+    "projects",
+    "wave"
   ],
-  "hidden": [],
+  "hidden": [
+    "projects",
+    "wave",
+    "stack"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
@@ -144,6 +148,7 @@
         "url": "",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": true
   }
 }
