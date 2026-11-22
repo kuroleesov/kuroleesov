@@ -2,8 +2,6 @@
 
 ### Student from Russia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuroleesov&label=Profile views&color=0e75b6&style=flat" alt="kuroleesov" /> </p>
-
 - 🔭 I'm currently working on **my nix dot files probably**
 
 - 🌱 I'm currently learning **GO**
